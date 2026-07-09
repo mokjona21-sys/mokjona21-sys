@@ -1,16 +1,12 @@
-## Hi there 👋
+ Hi there, I am Mugalu Moses.
+ A passionate Retail Enterpreneur and frontend Web Developer Based in Kampala, Uganda. I blend business operations with cean code to build efficient digital experiences.
+ Tecg Stack & Skills;
+ Frontend:Html5, Css3,Flexbox layouts
+ Tools: Git, Github, VS Code
+ Focus: Semantic web design & responsive interfaces
+ Current Projects;
+ Sourcing commercial apparel and styling inventory lines for an independent venture.
+ Expanding modern layout skill via open-access frontend development certifications.
 
-<!--
-**mokjona21-sys/mokjona21-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Connect with me:
+ [mokjona21@gmail.com](mailto:mokjona21@gmail.com)

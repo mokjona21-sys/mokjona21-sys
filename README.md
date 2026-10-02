@@ -1,5 +1,5 @@
  Hi there, I am Mugalu Moses.
- A passionate Retail Enterpreneur and frontend Web Developer Based in Kampala, Uganda. I blend business operations with cean code to build efficient digital experiences.
+ A passionate Retail Enterpreneur and frontend Web Developer Based in Kampala, Uganda. I blend business operations with clean code to build efficient digital experiences.
  Tecg Stack & Skills;
  Frontend:Html5, Css3,Flexbox layouts
  Tools: Git, Github, VS Code
